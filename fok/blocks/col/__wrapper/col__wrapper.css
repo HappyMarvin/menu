@@ -1,0 +1,5 @@
+.col__wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px 10px 0;
+}

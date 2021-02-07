@@ -1,0 +1,10 @@
+@import "../fonts/fonts.css";
+@import "../blocks/main/main.css";
+@import "../blocks/col/col.css";
+@import "../blocks/col/__food/col__food.css";
+@import "../blocks/col/__h2/col__h2.css";
+@import "../blocks/col/__h3/col__h3.css";
+@import "../blocks/col/__price/col__price.css";
+@import "../blocks/col/__wrapper/col__wrapper.css";
+@import "../blocks/col-wrapper/col-wrapper.css";
+
